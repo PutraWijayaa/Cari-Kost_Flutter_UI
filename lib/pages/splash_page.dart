@@ -38,7 +38,7 @@ class SplashPage extends StatelessWidget {
                     height: 30,
                   ),
                   Text(
-                    'Find Cozy House\nto Stay and Happy',
+                    'Find King Kost\nto Stay and Happy',
                     style: blackTextStyle.copyWith(
                       fontSize: 24,
                     ),
